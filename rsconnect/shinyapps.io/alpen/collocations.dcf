@@ -1,0 +1,13 @@
+name: collocations
+title: collocations
+username:
+account: alpen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5155881
+bundleId: 5266641
+url: https://alpen.shinyapps.io/collocations/
+when: 1637247082.13952
+lastSyncTime: 1637247082.13952
+asMultiple: FALSE
+asStatic: FALSE
